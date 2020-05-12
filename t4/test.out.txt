@@ -1,0 +1,13 @@
+success
+edge count is 0
+degree of 0 is 0
+degree of 1 is 0
+degree of 2 is 0
+degree of 3 is 0
+degree of 4 is 0
+degree of 5 is 0
+degree of 6 is 0
+degree of 7 is 0
+degree of 8 is 0
+degree of 9 is 0
+failure
